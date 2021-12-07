@@ -2,3 +2,5 @@
 - maito
 - jauho
 - pizza
+- limu
+- sipsi
